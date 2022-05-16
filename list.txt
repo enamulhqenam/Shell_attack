@@ -1,0 +1,37 @@
+http://www.netcomcollege.in/admin/carousal.php
+http://www.jankidevigirlscollege.in/uploads/alfa.php #work
+http://www.duxitibare.com/admin/uploads/alfa.php #work
+http://www.asif-in.fr/asif_admin/uploadimages/alfa.php #work
+http://skpgcguntakal.org.in/admin/uploads/photos/445tcmoon450px.jpg.php #sucess(http://skpgcguntakal.org.in/admin/uploads/photos/d@rkfox.html)
+http://schcas.org/d@rkfox.html  (http://schcas.org/admin/upload/darkfox.php)
+https://www.inaayabeautyparlor.in.net/admin/upload/alfa.php (https://www.inaayabeautyparlor.in.net/d@rkfox.html)
+http://www.tezu.ernet.in/wsc/admin/news.php?source=view_all_news #shall upload but not working
+http://duxgroupofiti.in/admin/add-branch.php# #whats the problem
+intitle:Admin login intext:sign in site:in
+http://www.sjhrc.in/blog/admin/images.php #not work
+http://ambuilders.co.in/admin/dashboard #work but not upload
+http://ambuilders.co.in/admin/view-customers #upload shall but 404 error 
+http://www.duxitibare.com/admin/computer-lab.php # 404 error
+http://www.asif-in.fr/asif_admin/news.php #pic upload
+inurl: /admin/ intext:cms
+https://hytechgroup.com/admin/addnews.php #access but not working
+http://www.sunclg.in/track/admin/image-upload.html #upload but not found
+1'or'1'='1
+inurl:/extranet/upload/
+https://www.gmsssdhanas.in/admin/events.php?modify=58 #ulod but not working
+https://www.gmsss56.in/admin/enrollment.php #upload but not working
+
+http://www.hotelpraiadasneves.com.br/admin/index1.php #upload but not founding
+http://www.abrf.org.in/admin/menu.php #qerry but not working
+http://www.lakshyam.in/Files/collaborators/bower_components/ckeditor/plugins/stylesheetparser/
+http://www.aaset.in/admin/homeslider_entry.php #acess but not upload
+http://jvvkukatpally.com/admin/dashboard.php #upload abut not found
+http://www.technoenterprises.co.in/admin/admin-banner.php #alrady hack
+https://www.stmartinschool.in/admin/manage_gallery.php? #upload but apache2 server error
+http://www.sunsonherbals.co.in/admin/editsunsonnews.php? #access but uploader not found
+http://schoolofmartialart.in/admin/index.php/welcome/index?tab=B.P.E.S%20HIGH%20SCHOOL #Access but not working
+http://www.appleadvantage.in/software/admin/dashboard.php #upload but not working
+http://shrisaipublicschool.in/admin/upload.php # not working
+http://www.greenmarket.ae/admin/subctgedit.php?id=58 #shell upload but not working
+http://www.shoruq.sch.ae/template/admin/forms.html #acess but not working 
+http://www.uniqueoptions.ae/admin/disnews.php #upload but not working
